@@ -1,4 +1,13 @@
-## Hi there 👋
+<div align="center">
+  <h2>👋 Hi there!, I am Sebastian Valdes</h2>
+  <h3>I'm a software engineering student based in Belfast.</h3>
+<!--
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=svaldes04&repo=deadwood-south&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+-->
+</div>
+
+
+
 
 <!--
 **svaldes04/svaldes04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
