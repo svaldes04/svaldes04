@@ -6,8 +6,10 @@
     Focused on projects that present challenges and require learning new skills.
   </p>
   <hr>
-  <p>Currently working on a task-schedueling app using Ionic and Angular Frameworks!</p>
+  <p>Currently working on a task-schedueling app using Ionic and Angular Frameworks! Check it out here:</p>
+  <a href="https://github.com/svaldes04/timelineApp">
   <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=svaldes04&repo=timelineApp&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+  </a>
 
 </div>
 
