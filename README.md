@@ -1,11 +1,11 @@
 <div align="center">
-  <h3>👋 Hi there!, I am Sebastian Valdes</h2>
+  <h2>👋 Hi there!, I am Sebastian Valdes</h2>
   <p>
     I'm a software engineering student based in Belfast.
     <br>
     Focused on projects that present challenges and require learning new skills.
   </p>
-  <hr>
+  <br>
   <p>Currently working on a task-schedueling app using Angular and Ionic frameworks! Check it out here:</p>
   <a href="https://github.com/svaldes04/timelineApp">
   <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=svaldes04&repo=timelineApp&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
